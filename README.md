@@ -13,7 +13,7 @@ Cart management (update quantity, remove items)
 Checkout process and order placement
 Order history and tracking
 Installation
-Clone the repository: git clone https://github.com/your-username/shop-app-flutter.git
+Clone the repository: git clone https://github.com/Ankit1433/shop-app-flutter.git
 Navigate to the project directory: cd shop-app-flutter
 Ensure Flutter is set up and configured on your machine.
 Connect a device/emulator.
